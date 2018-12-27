@@ -1,6 +1,5 @@
 ###FACIAL RECOGNITION ATTENDANCE MANAGENMENT (FRAM)
 
-NOTE: It is advised to clone this project inside python installed folder.{: .notice}
 
 Description of the environment I have run this project:
 1. Windows 10 64 bit.
@@ -30,3 +29,6 @@ and others...
 4. faceRecognition.py : Performs face recognition.
 5. facultyLogin.py: Faculty login module using credentials.
 6. resize.py: Performs image resizing.
+
+NOTE: It is advised to clone this project inside python installed folder.
+{: .notice}
