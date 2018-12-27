@@ -1,7 +1,6 @@
 ###FACIAL RECOGNITION ATTENDANCE MANAGENMENT (FRAM)
 
-NOTE: It is advised to clone this project inside python installed folder.
-{:.notice}
+NOTE: It is advised to clone this project inside python installed folder.{: .notice}
 
 Description of the environment I have run this project:
 1. Windows 10 64 bit.
