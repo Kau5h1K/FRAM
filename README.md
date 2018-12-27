@@ -30,4 +30,4 @@ and others...
 5. facultyLogin.py: Faculty login module using credentials.
 6. resize.py: Performs image resizing.
 
-`It is advised to clone this project inside python installed folder.`
+`NOTE: It is advised to clone this project inside python installed folder.`
