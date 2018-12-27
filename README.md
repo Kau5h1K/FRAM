@@ -1,4 +1,4 @@
-### FACIAL RECOGNITION ATTENDANCE MANAGENMENT (FRAM)
+#### FACIAL RECOGNITION ATTENDANCE MANAGENMENT (FRAM)
 
 
 Description of the environment I have run this project:
@@ -30,5 +30,4 @@ and others...
 5. facultyLogin.py: Faculty login module using credentials.
 6. resize.py: Performs image resizing.
 
-It is advised to clone this project inside python installed folder.
-{: .notice}
+`It is advised to clone this project inside python installed folder.`
