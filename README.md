@@ -1,4 +1,4 @@
-#### FACIAL RECOGNITION ATTENDANCE MANAGENMENT (FRAM)
+# FACIAL RECOGNITION ATTENDANCE MANAGENMENT (FRAM)
 
 
 Description of the environment I have run this project:
@@ -15,13 +15,13 @@ and others...
 
 ## Directory Description:
 
-#Folders: 
+### Folders: 
 1. eigenfaces, reconfaces: Contains the auto generated intermediate data after evaluation.
 2. face: Contains database of faces and other modules for evaluation
 3. haarcascades: Contains all the algorithm needed for evaluation (only Face comparison algorithm)
 4. include, lib, libs, Scripts, share, tcl, tools: Contains built-in python files.
 
-#Files:
+### Files:
 
 1. Main.py: Contains GUI elements. Calls all the other modules using GUI.
 2. capture_group_image.py: Captures group image
